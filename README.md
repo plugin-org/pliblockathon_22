@@ -1,2 +1,4 @@
-# pliblockathon_22
-PLI Blockathon India '22 - Hackathon event for Students and Blockchain enthusiasts
+# pliblockathon
+the repository for forking the project
+
+As the Website was created using html,css and js. It has been executed successfully.
